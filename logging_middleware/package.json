@@ -1,0 +1,9 @@
+{
+  "name": "afford-logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable Express.js request/response logging middleware",
+  "main": "src/index.js",
+  "keywords": ["express", "middleware", "logging"],
+  "author": "Afford Medical Technologies",
+  "license": "ISC"
+}
